@@ -1,4 +1,4 @@
-const toxicRegex = /puto|puta|rata|estupido|imbecil|rctmre|mrd|verga|vrga|maricon/i
+const toxicRegex = /puto|puta|rata|estupido|imbecil|pedro|mrd|verga|vrga|maricon/i
 
 export async function before(m, { isAdmin, isBotAdmin, isOwner }) {
     if (m.isBaileys && m.fromMe)
@@ -12,7 +12,7 @@ export async function before(m, { isAdmin, isBotAdmin, isOwner }) {
     
     if (isToxic && chat.antiToxic && !isOwner && !isAdmin) {
        user.warn += 1
-       if (!(user.warn >= 5)) await m.reply(`${user.warn == 1 ? `Hola *@${m.sender.split`@`[0]}*` : `*@${m.sender.split`@`[0]}*`}, decir la palabra (${isToxic}) está prohibido en este bot *${user.warn}/5* advertencia`, false, { mentions: [m.sender] })
+       if (!(user.warn >= 5)) await m.reply(`${user.warn == 1 ? `heo *@${m.sender.split`@`[0]}*` : `*@${m.sender.split`@`[0]}*`}, decir la palabra (${isToxic}) está prohibido en este bot *${user.warn}/5* advertencia`, false, { mentions: [m.sender] })
     }
     
     if (user.warn >= 5) {
