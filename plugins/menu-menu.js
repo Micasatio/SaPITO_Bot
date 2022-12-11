@@ -23,18 +23,18 @@ let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 m.reply(`╭──────────────────  
-│⏱️ 𝐂𝐀𝐑𝐆𝐀𝐍𝐃𝐎 𝐌𝐄𝐍𝐔... 
+│⏱️ Ya te mando el menú de mierda espera... 
 ╰──────────────────`)
 let str = `
 *══〘 🔥⚡🔥⚡🔥⚡🔥〙═══╮*
-*║ ▢ 𝐃𝐎𝐑𝐑𝐀𝐓-𝐁𝐎𝐓-𝐌𝐃*
+*║ ▢ Sapito_Bot*
 *║ ▢* ${ucapan()}
 *║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋*
 *║ ▢ ❤𝐇𝐎𝐋𝐀, ${taguser}❤*
 *║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋*
 *║ ▢ 𝐂𝐑𝐄𝐀𝐃𝐎𝐑 𝐃𝐄𝐋 𝐁𝐎𝐓:  ${creatorname}*
-*║ ▢ 𝐍𝐔𝐌𝐄𝐑𝐎 𝐃𝐄𝐋 𝐂𝐑𝐄𝐀𝐃𝐎𝐑: wa.me/593959425714 (𝐍𝐎 𝐁𝐎𝐓)*
-*║ ▢ 𝐍𝐔𝐌𝐄𝐑𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓 𝐎𝐅𝐈𝐂𝐈𝐀𝐋: wa.me/573122695406 (𝐎𝐅𝐈𝐂𝐈𝐀𝐋 𝐃𝐄 𝐃𝐎𝐑𝐑𝐀𝐓)*
+*║ ▢ 𝐍𝐔𝐌𝐄𝐑𝐎 𝐃𝐄𝐋 𝐂𝐑𝐄𝐀𝐃𝐎𝐑: wa.me/5995983186566 (𝐍𝐎 𝐁𝐎𝐓)*
+*║ ▢ 𝐍𝐔𝐌𝐄𝐑𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓 𝐎𝐅𝐈𝐂𝐈𝐀𝐋: wa.me/5 (𝐎𝐅𝐈𝐂𝐈𝐀𝐋 𝐃𝐄 Sapito)*
 *║ ▢ 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 » ${vs}*
 *║ ▢ 𝐅𝐄𝐂𝐇𝐀 » ${week}, ${date}*
 *║ ▢ 𝐓𝐈𝐄𝐌𝐏𝐎 𝐀𝐂𝐓𝐈𝐕𝐎 » ${uptime}*
@@ -51,7 +51,7 @@ let str = `
 *║🪙 DORRAT-COINS ➟ ${dorracoins}*
 *╰══*═════════════ *✧*
 
-*╭━〔 INFORMACIÓN DE DORR∆T-BOT 〕━⬣*
+*╭━〔 INFORMACIÓN DE Sapito 〕━⬣*
  ┃ 🔰 _${usedPrefix}grupos_
  ┃ 🔰 _${usedPrefix}estado_
  ┃ 🔰 _${usedPrefix}instalarbot_
@@ -77,11 +77,6 @@ let str = `
 ┣ ➱🛡️ _*minimo 30 miembros*_
 ┗━━━━━━━━━━━━━┛
 
-┌──「🖥️𝐒𝐄𝐑𝐁𝐎𝐓 - 𝐉𝐀𝐃𝐈𝐁𝐎𝐓」─
-├➢🤖 _${usedPrefix}serbot_
-├➢🤖 _${usedPrefix}stop_
-├➢🤖 _${usedPrefix}bots_
-└────ׂ─ׂ─ׂ─ׂ───
 
 ┌──「🌱𝐑𝐏𝐆」─
 ├➢🪴${usedPrefix}aventura
@@ -502,7 +497,7 @@ let str = `
 ├➢👑 _${usedPrefix}listprem_
 └────ׂ─ׂ─ׂ─ׂ───
  ━━━━━━━━━━━━━━━━━━━━━━━━━
-┃𝐃𝐎𝐑𝐑𝐀𝐓-𝐁𝐎𝐓-𝐌𝐃 𝐁𝐘 𝐃𝐈𝐄𝐆𝐎-𝐎𝐅𝐂┃
+┃Sapito_Bot┃
  ━━━━━━━━━━━━━━━━━━━━━━━━━
 `.trim()
 let buttons = [
@@ -522,10 +517,10 @@ externalAdReply: {
 showAdAttribution: true,
 mediaType: 'VIDEO',
 mediaUrl: null,
-title:'👑 𝐃𝐎𝐑𝐑𝐀𝐓-𝐁𝐎𝐓-𝐌𝐃 👑',
+title:'👑 Sapito👑',
 body: null,
 thumbnail: null,
-sourceUrl: `https://chat.whatsapp.com/LlAbJM659dOBVJnxOIMl9h`
+sourceUrl: `https://github.c`
 }}}
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })
 //await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, { type: 'audioMessage', ptt: true})
