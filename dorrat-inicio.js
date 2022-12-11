@@ -1,4 +1,4 @@
-console.log('☑️ㅤIniciando bot...')
+console.log('☑️ㅤIniciando El Bot Más Tercermundista xd')
 import { join, dirname } from 'path'
 import { createRequire } from "module";
 import { fileURLToPath } from 'url'
@@ -13,7 +13,7 @@ const { name, author } = require(join(__dirname, './package.json'))
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
-say('DORRAT-BOT-MD', {
+say('Sapito_Bot-MD', {
 font: 'tiny',
 align: 'center',
 colors: ['#ff8000']})
