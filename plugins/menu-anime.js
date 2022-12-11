@@ -117,7 +117,7 @@ let str = `
 ├➢⛪${usedPrefix}gawrgura
 └────ׂ─ׂ─ׂ─ׂ───
 `.trim()
-conn.sendHydrated(m.chat, str, wm, pp, 'https://github.com/DIEGO-OFC/DORRAT-BOT-MD', '📎𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
+conn.sendHydrated(m.chat, str, wm, pp, 'https://github.com/Micasatio/SaPITO_Bot', '📎𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
 ['𝐌𝐄𝐍𝐔', '/menu'], 
 ['𝐄𝐒𝐓𝐀𝐃𝐎','/estado'],
 
