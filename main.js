@@ -105,7 +105,7 @@ global.timestamp.connect = new Date
 }
 if (global.db.data == null) loadDatabase()
 if (connection == 'open') {
-console.log(chalk.yellow('╭──────────────────────────────✧•°•°···\n│➢ 𝐁𝐎𝐓 𝐂𝐎𝐍𝐄𝐂𝐓𝐀𝐃𝐎 𝐂𝐎𝐑𝐑𝐄𝐂𝐓𝐀𝐌𝐄𝐍𝐓𝐄 ☑️\n│❏ 𝐁𝐎𝐓 𝐈𝐍𝐒𝐓𝐀𝐋𝐀𝐃𝐎:𝐃𝐎𝐑𝐑𝐀𝐓-𝐁𝐎𝐓-𝐌𝐃 ☑️\n╰──────────────────────────────✧•°•°···'))}
+console.log(chalk.yellow('╭──────────────────────────────✧•°•°···\n│➢ 𝐁OT CONECTADO AL WASAP 🥵 ☑️\n│❏ 𝐁OT INSTALADO:SAPITO BOT ☑️\n╰──────────────────────────────✧•°•°···'))}
 }
 
 
@@ -230,7 +230,7 @@ Object.freeze(global.support)
 }
 setInterval(async () => {
 var a = await clearTmp()
-console.log(chalk.cyanBright(`\n▣════════[ 𝐀𝐔𝐓𝐎𝐂𝐋𝐄𝐀𝐑-𝐓𝐌𝐏 ]════════════...\n│\n▣─➢ 𝐁𝐚𝐬𝐮𝐫𝐚 𝐞𝐥𝐢𝐦𝐢𝐧𝐚𝐝𝐚 ✅\n│\n▣═════════════════════════════════════...\n`))
+console.log(chalk.cyanBright(`\n▣════════[ AUTOCLEAR ]════════════...\n│\n▣─➢ SE ELIMINO LA BASURA ✅\n│\n▣═════════════════════════════════════...\n`))
 }, 180000)
 _quickTest()
 .then(() => conn.logger.info(`Ƈᴀʀɢᴀɴᴅᴏ．．．\n`))
