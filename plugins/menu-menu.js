@@ -1,6 +1,6 @@
 
 /********************************************
-*         DORRAT-BOT-MD BY DIEGO-OFC        *
+*         Sapito_Bot By SNT Y AlexisWithlogic       *
 /********************************************/
 import moment from 'moment-timezone'
 import fs, { promises } from 'fs'
@@ -32,15 +32,14 @@ let str = `
 *║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋*
 *║ ▢ ❤𝐇𝐎𝐋𝐀, ${taguser}❤*
 *║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋*
-*║ ▢ 𝐂𝐑𝐄𝐀𝐃𝐎𝐑 𝐃𝐄𝐋 𝐁𝐎𝐓:  ${creatorname}*
-*║ ▢ 𝐍𝐔𝐌𝐄𝐑𝐎 𝐃𝐄𝐋 𝐂𝐑𝐄𝐀𝐃𝐎𝐑: wa.me/5995983186566 (𝐍𝐎 𝐁𝐎𝐓)*
-*║ ▢ 𝐍𝐔𝐌𝐄𝐑𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓 𝐎𝐅𝐈𝐂𝐈𝐀𝐋: wa.me/5 (𝐎𝐅𝐈𝐂𝐈𝐀𝐋 𝐃𝐄 Sapito)*
-*║ ▢ 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 » ${vs}*
-*║ ▢ 𝐅𝐄𝐂𝐇𝐀 » ${week}, ${date}*
-*║ ▢ 𝐓𝐈𝐄𝐌𝐏𝐎 𝐀𝐂𝐓𝐈𝐕𝐎 » ${uptime}*
-*║ ▢ 𝐋𝐈𝐁𝐑𝐀𝐑𝐘 » ${library}*
-*║ ▢ 𝐋𝐄𝐍𝐆𝐔𝐀𝐉𝐄 » 𝐄𝐒𝐏𝐀𝐍̃𝐎𝐋*
-*║ ▢ 𝐔𝐒𝐔𝐀𝐑𝐈𝐎𝐒 » ${Object.keys(global.db.data.users).length}*
+*║ ▢ Creador de bot:  ${creatorname}*
+*║ ▢ Número del creado: wa.me/5995983186566 (NO Bot)*
+*║ ▢ Número Del bot OfC: wa.me/5 
+*║ ▢ Versión » ${vs}*
+*║ ▢ Feha » ${week}, ${date}*
+*║ ▢ Tiempo activo » ${uptime}*
+*║ ▢ Lenguaje » Ezpañiol 💅*
+*║ ▢ USuarios » ${Object.keys(global.db.data.users).length}*
 *╰══╡🔥⚡🔥⚡🔥⚡🔥╞══╯*
 
 *═〔* info *〕⬣═*
@@ -48,7 +47,6 @@ let str = `
 *║🧰 EXPERIENCIA ➟ ${exp}*
 *║⚓ RANGO ➟* ${role}
 *║💎 DIAMANTES ➟ ${limit}*
-*║🪙 DORRAT-COINS ➟ ${dorracoins}*
 *╰══*═════════════ *✧*
 
 *╭━〔 INFORMACIÓN DE Sapito 〕━⬣*
