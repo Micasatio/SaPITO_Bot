@@ -22,9 +22,9 @@ conn.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
 m.reply('Antifake  Activado lo siento seras expulsado del grupo.😄')
 conn.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
    } 
-   if (m.sender.startsWith('62' || '62')) {
+   if (m.sender.startsWith('51' || '51')) {
    	global.db.data.users[m.sender].banned = true
-conn.reply('Antifake  Activado lo siento seras expulsado del grupo.😄')
+conn.reply('Nooo un peruano te expulsaremos de aquí 🐒')
 conn.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
    } 
    if (m.sender.startsWith('7' || '7')) {
