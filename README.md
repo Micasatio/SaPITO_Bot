@@ -14,9 +14,9 @@ Pronto
 
 ### `—◉ 😈BOTS OFICIALES`
 
-<a href="http://wa.me/Perdón amor aún no están disponibles los bot porque mi pene" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1️⃣-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/MI PENE NO ME CRESEE" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1️⃣-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-<a href="http://wa.me/Perdón amor aún no hay bot porque mi pene" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.2️⃣-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/MI PENE NO CRESE " target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.2️⃣-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 <a href="http://wa.me/Porque mejor no me mandas tú pack 🤩" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.3️⃣-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
