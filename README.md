@@ -28,8 +28,8 @@ Pronto
   
 
 ### `—◉ ⚒️ 𝐀𝐉𝐔𝐒𝐓𝐄𝐒 ⚒️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/DIEGO-OFC/DORRAT-BOT-MD/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/configuracion.js)
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/Micasatio/SaPITO_Bot/fork)
+- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/Micasatio/SaPITO_Bot/blob/main/configuracion.js)
 
 ### <img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/galeria/unnamed.png" height="30px"> Activar En Termux 
 - ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
