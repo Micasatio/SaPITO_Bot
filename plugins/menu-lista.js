@@ -24,14 +24,14 @@ let { min, xp, max } = xpRange(level, global.multiplier)
 //let name = await conn.getName(m.sender)
 
 const sections = [{
-title: comienzo + ' 🔰 𝐼𝑁𝐹𝑂 𝐷𝑂𝑅𝑅𝐴𝑇-𝐵𝑂𝑇 🔰 ' + fin,
+title: comienzo + ' 🔰  Sapito 🔰 ' + fin,
 rows: [
 {title: "│🤴│𝐍𝐔𝐌𝐄𝐑𝐎 𝐃𝐄 𝐌𝐈 𝐂𝐑𝐄𝐀𝐃𝐎𝐑", description: "𝚖𝚞𝚎𝚜𝚝𝚛𝚊 𝚕𝚘𝚜 𝚗ú𝚖𝚎𝚛𝚘𝚜 𝚍𝚎 𝚖𝚒 𝚌𝚛𝚎𝚊𝚍𝚘𝚛", rowId: `${usedPrefix}creator`},  
 {title: "│🏓│𝐈𝐍𝐅𝐎𝐁𝐎𝐓", description: "𝚖𝚞𝚎𝚜𝚝𝚛𝚊 𝚕𝚊 𝚕𝚒𝚜𝚝𝚊 𝚍𝚎 𝚒𝚗𝚏𝚘𝚋𝚘𝚝", rowId: `${usedPrefix}infobot`},
 {title: "│☄️│𝐌𝐄𝐍𝐔 𝐂𝐎𝐌𝐏𝐋𝐄𝐓𝐎", description: "𝙼𝚞𝚎𝚜𝚝𝚛𝚊 𝚕𝚊 𝚕𝚒𝚜𝚝𝚊 𝚍𝚎 𝚖𝚎𝚗𝚞 𝚌𝚘𝚖𝚙𝚕𝚎𝚝𝚘", rowId: `${usedPrefix}allmenu`},
 {title: "│🤖│𝐆𝐑𝐔𝐏𝐎 𝐎𝐅𝐈𝐂𝐈𝐀𝐋 𝐃𝐄𝐋 𝐁𝐎𝐓", description: "𝚖𝚞𝚎𝚜𝚝𝚛𝚊 𝚕𝚘𝚜 𝚐𝚛𝚞𝚙𝚘𝚜 𝚘𝚏𝚒𝚌𝚒𝚊𝚕𝚎𝚜 𝚍𝚎𝚕 𝚋𝚘𝚝", rowId: `${usedPrefix}grupos`},
-{title: "│🖥️│𝐒𝐄𝐑 𝐒𝐔𝐁-𝐁𝐎𝐓", description: "𝙹𝙰𝙳𝙸𝙱𝙾𝚃 𝙼𝚄𝙻𝚃𝙸𝙳𝙸𝚅𝙸𝙲𝙴", rowId: `${usedPrefix}jadibot`},
-{title: "│🔰│𝐈𝐍𝐒𝐓𝐀𝐋𝐀𝐑-𝐃𝐎𝐑𝐑𝐀𝐓-𝐁𝐎𝐓", description: "INFORMACIÓN PARA INSTALAR A DORR∆T-BOT", rowId: `${usedPrefix}instalarbot`}
+{title: "│🖥️│Pene", description: "Pene", rowId: `${usedPrefix}pene`},
+{title: "│🔰│𝐈𝐍𝐒𝐓𝐀𝐋𝐀𝐑-Sapitl_Bot", description: "INFORMACIÓN PARA INSTALAR A DORR∆T-BOT", rowId: `${usedPrefix}instalarbot`}
 
 ]},{
 title: comienzo + ' 💲 𝐌𝐄𝐍𝐔 𝐄𝐂𝐎𝐍𝐎𝐌𝐈𝐀 💲' + fin,
@@ -92,7 +92,7 @@ text: `
 ║ ⚡ ▢ *Activo durante*
 ║ ⚡ ▢ ${uptime}
 ║┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-║ 💎 ▢ *Versión de 𝐃𝐎𝐑𝐑𝐀𝐓-𝐁𝐎𝐓-𝐌𝐃*
+║ 💎 ▢ *Versión de Sapito_Bot*
 ║ 💎 ▢ ${vs}
 ║ 🔳 ▢ Library:
 ║ 🖥️ ▢ ${library}
