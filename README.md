@@ -43,8 +43,8 @@ Pronto
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/DIEGO-OFC/DORRAT-TERMUX
-> cd DORRAT-TERMUX
+> git clone https://github.com/Micasatio/SaPITO_Bot
+> cd SaPITO_Bot
 > yarn install 
 > npm install
 > npm update
@@ -55,7 +55,7 @@ Pronto
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd DORRAT-TERMUX
+> cd SaPITO_Bot
 > npm start
 ```
 
@@ -66,7 +66,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
 > cd DORRAT-TERMUX
-> rm -rf DORRATSESSION 
+> rm -rf SaPITO_BotSESSION 
 > npm start
 ```
 
@@ -84,6 +84,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 
 ## `𝐄𝐃𝐈𝐓𝐎𝐑 𝐘 𝐏𝐎𝐑𝐏𝐈𝐄𝐓𝐀𝐑𝐈𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓` 
-<a href="https://github.com/DIEGO-OFC"><img src="https://github.com/DIEGO-OFC.png" width="300" height="300" alt="DIEGO-OFC"/></a>
+<a href="https://github.com/Micasatio"><img src="https://github.com/Micasatio.png" width="300" height="300" alt="Micasatio"/></a>
 
 > S∆PITO-BOT _ By SNT Y Alexis_With-logic 
