@@ -2,7 +2,7 @@ import fs from 'fs'
 let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 let text = `
 *—◉ 𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻 𝚃𝙴𝚁𝙼𝚄𝚇*:
-https://youtu.be/DKo7PO2ta4o
+https://youtu.be pronto
 *—◉ 𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 𝚃𝙴𝚁𝙼𝚄𝚇*
 > cd
 > termux-setup-storage
@@ -13,8 +13,8 @@ https://youtu.be/DKo7PO2ta4o
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/DIEGO-OFC/DORRAT-TERMUX
-> cd DORRAT-TERMUX
+> git clone link del repo
+> cd name
 > yarn install 
 > npm install
 > npm update
@@ -24,9 +24,9 @@ https://youtu.be/DKo7PO2ta4o
 conn.reply(m.chat, text, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
 title: '𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝙲𝙸𝙾𝙽 - 𝙸𝙽𝚂𝚃𝙰𝙻𝙰𝚁𝙱𝙾𝚃',
-body: '†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤†',         
+body: '†Sapito_Bot†',         
 previewType: 0, thumbnail: fs.readFileSync("./Menu2.jpg"),
-sourceUrl: `https://github.com/DIEGO-OFC/DORRAT-BOT-MD`}}})   
+sourceUrl: `https://github.com/Micasatio`}}})   
 }
 handler.command = /^(instalarbot)/i
 export default handler
