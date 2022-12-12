@@ -1,4 +1,5 @@
 # 🐸Sapito_Bot 🐸
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CB22&width=435&lines=Sapito+Bot+Multidevice+UwU;Gracias+por+usar+este+bot+mi+amor+%3A3;%5B+FOTO+TETA+?+🤠+%5D_)](https://git.io/typing-svg)
 <div align="center">
 <img src="https://i.ytimg.com/vi/nkhVzxXnuSQ/maxresdefault.jpg" alt="agromosSpbot" width="500" />
 
@@ -77,6 +78,13 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > rm -rf SaPITO_BotSESSION 
 > npm start
 ```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CB22&width=435&lines=+;+%3A3;%5B+How+sexy+are+you+7w7+%5D_)](https://git.io/typing-svg)
+<img src="https://c.tenor.com/D2H0hPltOdYAAAAM/golden-boy-fake-keyboard-programing-coding-paper-book.gif" width="400" height="230"/>
+</div>
+<br>
+<p align="center">
+
+
 # PREGUNTAS 🐸
 * Cómo detengo el Bot en Termux?
 > Use CTRL + z para apagar el Bot
