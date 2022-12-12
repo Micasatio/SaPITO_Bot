@@ -8,7 +8,12 @@
 
 ### `—◉ 🔥GRUPOS OFICIALES`
 
-Pronto
+<a href="https://chat.whatsapp.com/CntRn9MHu6oI29HWU6tVrC" target="blank"><img src="https://img.shields.io/badge/Grupo 1-30302f?style=flat&logo=whatsapp" /></a>
+<a href="https://chat.whatsapp.com/GxxpMawzPaW6MR0p2vH432" target="blank"><img src="https://img.shields.io/badge/Grupo 2-30302f?style=flat&logo=whatsapp" /></a>
+<a href="https://chat.whatsapp.com/I1vjFTvfZQbJI4aw0Vj5dk" target="blank"><img src="https://img.shields.io/badge/Grupo 3-30302f?style=flat&logo=whatsapp" /></a>
+<a href="" target="blank"><img src="https://img.shields.io/badge/Grupo 4-30302f?style=flat&logo=whatsapp" /></a>
+
+
 ---------
 > GRUPOS OFICIALES DEL BOT LA PASARAS DE LA PUTA MADRE :)
 
