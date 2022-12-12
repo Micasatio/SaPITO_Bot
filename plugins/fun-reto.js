@@ -11,7 +11,7 @@ function pickRandom(list) {
 }
 
 global.bucin = [
-"Pasa el pack de una hormiga",
+"Pasame una nota de voz diciendo hola amor o sino 10 años de mala suerte",
 "Dile a tus amigos que te vas a vivir a EU y mándame una captura de lo que te haya dicho",
 "Grita desde la ventana que quieres mamar y mándame el vídeo",
 "Escribe el nombre de tu crush",
