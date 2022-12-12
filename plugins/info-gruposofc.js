@@ -11,7 +11,9 @@ let handler = async (m, { conn, command }) => conn.sendButton(m.chat, `
 
 *4._* https://chat.whatsapp.com/Lu01IGq2bd73PvofLwFmv5
 
-*5._* https://chat.whatsapp.com/J21ki55h5lSLKpcWxacXCa te saldrá que no existe pero es un grupo exclusivo para premiums
+*5._* https://chat.whatsapp.com/J21ki55h5lSLKpcWxacXCa
+
+Si quieres añadir tu grupo aquí escribe al privado de mi creador 
 
 
 `.trim(), wm, media, [['💟 𝙼𝙴𝙽𝚄 𝙿𝚁𝙸𝙽𝙲𝙸𝙿𝙰𝙻 💟', '#menu']], m)
