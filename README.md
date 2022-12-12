@@ -74,8 +74,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd DORRAT-TERMUX
-> rm -rf SaPITO_BotSESSION 
+> cd SaPITO_Bot
+> rm -rf session.data.json 
 > npm start
 ```
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CB22&width=435&lines=+;+%3A3;%5B+How+sexy+are+you+7w7+%5D_)](https://git.io/typing-svg)
