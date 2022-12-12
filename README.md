@@ -77,7 +77,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > rm -rf SaPITO_BotSESSION 
 > npm start
 ```
-# 😩 Preguntas 😩
+# PREGUNTAS 🐸
 * Cómo detengo el Bot en Termux?
 > Use CTRL + z para apagar el Bot
 
@@ -86,19 +86,19 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 En caso que este Apagado el Bot sin salir de la carpeta del Bot, use este comando ```npm start```
 
 * Cómo puedo hacer el Bot Owner?
-> Debe de ingresar al archivo `config.js` o también [`Aquí`](https://github.com/Micasatio/BK_Bot-Termux/blob/master/config.js) luego añadir su número en donde diga `global.owner` Recuerde que requiere de hacer una Bifurcación, puede hacerla [`Aquí`](https://github.com/Micasatio/BK_Bot/fork)
+> Debe de ingresar al archivo `config.js` o también [`Aquí`](https://github.com/Micasatio/SaPITO_Bot/blob/main/configuracion.js) luego añadir su número en donde diga `global.owner` Recuerde que requiere de hacer una Bifurcación, puede hacerla [`Aquí`](https://github.com/Micasatio/SaPITO_Bot/fork)
 ----
 ### SOBRE SAPITO_BOT <img src="https://i.pinimg.com/originals/0e/c9/89/0ec989dde8b5fc0deef4e5b09292b605.gif" height="30px">
 ```bash
-> SOLO AQUÍ SE HACE LAS ACTUALIZACIONES OFICIALES DE Black_Bot
+> SOLO AQUÍ SE HACE LAS ACTUALIZACIONES OFICIALES DE SAPITO_BOT
 > LA VERSIÓN DEL BOT DETERMINA LAS ACTUALIZACIONES EXISTENTES 
 > EN CASO QUE ENCUENTRES UN ERROR O FALLA ESCRÍBEME AL WhatsApp 
 > SI SE PRESENTA ERRORES AL USAR EL BOT USE EL COMANDO /REPORTE PARA QUE LA PROPIETARIO LO SOLUCIONE
-> EL BOT FUNCIONA EN WHATSAPP MESSAGE Y WHATSAPP BUSINESS 
+> EL BOT FUNCIONA EN WHATSAPP NORMAL Y WHATSAPP BUSINESS 
 > SI HACES MODIFICACIONES, POR FAVOR DEJA CREDITOS DEL REPOSITORIO
-> FUNCIONA EL BOT INCLUSO CUANDO EL NÚMERO NO TIENE INTERNET 
-> USAR EL COMANDO /ADD O /SACAR PUEDE HACER QUE EL NÚMERO VAYA AL SOPORTE
-> PUEDE ESTAR HASTA 50 GRUPOS, SI EL NÚMERO ES MAYOR, PUEDE HABER SATURACIÓN 
+> SAPITO BOT FUNCIONA INCLUSO CUANDO EL NÚMERO NO TIENE INTERNET 
+> USAR EL COMANDO /ADD O /SACAR PUEDE HACER QUE EL NÚMERO VAYA A SOPORTE
+> PUEDE ESTAR HASTA 40 GRUPOS, SI EL NÚMERO ES MAYOR, PUEDE HABER SATURACIÓN 
 ```
 
 > SAPITO BOT - 𝚃𝙴𝙰𝙼 𝙽𝙾 𝚂𝙴 𝙷𝙰𝙲𝙴 𝚁𝙴𝚂𝙿𝙾𝙽𝚂𝙰𝙱𝙻𝙴 𝙳𝙴𝙻 𝚄𝚂𝙾, 𝙽𝚄𝙼𝙴𝚁𝙾𝚂, 𝙿𝚁𝙸𝚅𝙰𝙲𝙸𝙳𝙰𝙳 𝚈 𝙲𝙾𝙽𝚃𝙴𝙽𝙸𝙳𝙾 𝙼𝙰𝙽𝙳𝙰𝙳𝙾, 𝚄𝚂𝙰𝙳𝙾 𝙾 𝙶𝙴𝚂𝚃𝙸𝙾𝙽𝙰𝙳𝙾 𝙿𝙾𝚁 𝚄𝚂𝚃𝙴𝙳𝙴𝚂 𝙾 𝙴𝙻 𝙱𝙾𝚃
