@@ -33,7 +33,7 @@ return list[Math.floor(list.length * Math.random())]
 
 global.crimen = ["Robaste a un politico y ganas", "Robaste al Gobierno, ganando", "Robaste una persona y ganas",
  "Robaste un Búnker y ganaste", "Robaste una Mansión y te pagaron", 
-"Robaste un Avión y ganaste", 
+"Robaste a Alexis y Ganaste ", 
 "trabajaste para la mafia y te pagaron", "Robaste dos obra de arte del museo de España y ganaste", 
 "Asaltaste dos bancos de tu ciudad y ganas", 
 "Robaste a McDonald's y ganaste", "robaste a roblox y ganaste", "robaste a DIEGO-OFC y ganaste", 
