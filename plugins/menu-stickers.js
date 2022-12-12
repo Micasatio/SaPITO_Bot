@@ -126,7 +126,7 @@ text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length
 
 let str = `
 
-💗 *¡HOLA | HI!* ${name}
+💗 *¡HOLA* ${name}
 ╭━━〔 *${wm}* 〕━━⬣
 ┃🌌🌌🌌🌌🌌🌌🌌🌌🌌
 ┃✪ *EXPERIENCIA | EXP ➺ ${exp}*
@@ -148,6 +148,7 @@ let str = `
 ├➢🌠 _${usedPrefix}sremovebg *<responder a imagen>*_
 ├➢🌠 _${usedPrefix}semoji *<tipo> <emoji>*_
 ├➢🌠 _${usedPrefix}attp *<texto>*_
+┃        SAPITO_BOT
 ├➢🌠 _${usedPrefix}attp2 *<texto>*_
 ├➢🌠 _${usedPrefix}attp3 *<texto>*_
 ├➢🌠 _${usedPrefix}ttp *<texto>*_
