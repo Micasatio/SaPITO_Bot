@@ -46,7 +46,7 @@ m.reply(`*_😍Las 5 mejores parejas del grupo😍_*
 - Estos ya se casaron en secreto 💍
 
 *_5.- ${toM(i)} y ${toM(j)}_*
-- Esta pareja se esta de luna de miel ✨🥵😍❤️*`, null, {
+- Esta pareja esta de luna de miel pero ${toM(h)} es infiel y ${toM(g)} no lo sabe 🥵*`, null, {
 mentions: [a, b, c, d, e, f, g, h, i, j]
 })}
 handler.help = ['formarpareja5']
