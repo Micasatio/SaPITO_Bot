@@ -59,7 +59,7 @@ let str = `
  ┃ 🔰 _${usedPrefix}script_
  ┃ 🔰 _Bot_ (𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)
  *╰━━━━━━━━━━━━⬣*
-
+       SAPITO_BOT
 *╭━〔 REPORTAR COMANDO 〕━⬣*
 ┃ *Reporta con este comando de haber*
 ┃ *Fallas para poder Solucionar!!*
@@ -67,14 +67,14 @@ let str = `
 ┃ 💌 _${usedPrefix}reporte *texto*_
 ┃ 💌 _${usedPrefix}report *texto*_
 *╰━━━━━━━━━━━━⬣*
-
+      SAPITO_BOT
 ┏━━━━━━━━━━━━━┓
 ┃ *<UNE UN BOT A TU GRUPO/>*
 ║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋
 ┣ ➱🤖 _${usedPrefix}join *link del grupo*_ 
 ┣ ➱🛡️ _*minimo 30 miembros*_
 ┗━━━━━━━━━━━━━┛
-
+      SAPITO_BOT
 
 ┌──「🌱𝐑𝐏𝐆」─
 ├➢🪴${usedPrefix}aventura
@@ -92,7 +92,7 @@ let str = `
 ├➢🌱${usedPrefix}verificar
 ├➢🌱${usedPrefix}unreg <numero de serie>
 └────ׂ─ׂ─ׂ─ׂ───
-
+    SAPITO_BOT
 ┌──「🎮𝐆𝐀𝐌𝐄」─
 ├➢🌠${usedPrefix}suitpvp <@tag>
 ├➢🎡${usedPrefix}mates <noob / easy / medium / hard / extreme /impossible /impossible2>
@@ -122,7 +122,7 @@ let str = `
 ├➢🪄${usedPrefix}verdad
 ├➢🎾${usedPrefix}reto
 └────ׂ─ׂ─ׂ─ׂ───
-
+    SAPITO_BOT
 ┌「🕋𝐏𝐑𝐄𝐍𝐃𝐄𝐑 𝐘 𝐀𝐏𝐀𝐆𝐀𝐑 」
 ├➢✅${usedPrefix}enable *welcome*_
 ├➢❎${usedPrefix}disable *welcome*_
@@ -144,7 +144,7 @@ let str = `
 ├➢✅${usedPrefix}enable *antiArab*_
 ├➢❎${usedPrefix}disable *antiArab*_
 └────ׂ─ׂ─ׂ─ׂ───
-
+    SAPITO_BOT
 ┌─「💻𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐑」
 ├➢📑${usedPrefix}facebook <enlace / link / url
 ├➢🗃️${usedPrefix}instagram <enlace / link / url
@@ -166,7 +166,7 @@ let str = `
 ├➢🗂️${usedPrefix}igstalk <nombre de usuario
 ├➢📰${usedPrefix}tiktokstalk <nombre de usuario
 └────ׂ─ׂ─ׂ─ׂ──
-
+     SAPITO_BOT
 ┌──「🏢𝐆𝐑𝐎𝐔𝐏」─
 ├➢💎${usedPrefix}add *<número>*
 ├➢💎${usedPrefix}kick <@tag
@@ -195,11 +195,11 @@ let str = `
 ├➢💎${usedPrefix}simular <welcome / bye / promote / demote>
 ├➢💎${usedPrefix}destraba 
 └────ׂ─ׂ─ׂ─ׂ───
-
+    SAPITO_BOT
 ┌──「🛡️𝐆𝐈𝐓𝐇𝐔𝐁」─
 ├➢/instalarbot
 └────ׂ─ׂ─ׂ─ׂ───
-
+    SAPITO_BOT
 ┌──「🎑𝐂𝐎𝐍𝐕𝐄𝐑𝐓𝐈𝐃𝐎𝐑𝐄𝐒」
 ├➢🧧 _${usedPrefix}togifaud *<responde a un video>*_
 ├➢🧧 _${usedPrefix}toimg *<responde a un sticker>*_
@@ -209,7 +209,7 @@ let str = `
 ├➢🧧 _${usedPrefix}tourl *<responde a un video / imagen / audio>*_
 ├➢🧧 _${usedPrefix}tts es *<texto>*_
 └────ׂ─ׂ─ׂ─ׂ───
-
+     SAPITO_BOT
 ┌──「📑𝐋𝐎𝐆𝐎𝐒」─
 ├➢📌${usedPrefix}logos <efecto <texto
 ├➢🧧${usedPrefix}simpcard <@tag
@@ -221,14 +221,14 @@ let str = `
 ├➢🧨${usedPrefix}blur
 └────ׂ─ׂ─ׂ─ׂ───
 
-
+    SAPITO_BOT
 ┌──「🌹𝐅𝐫𝐚𝐬𝐞𝐬 𝐲 𝐭𝐞𝐱𝐭𝐨𝐬」─
 ├➢🥀 _${usedPrefix}piropo_
 ├➢🥀 _${usedPrefix}consejo_
 ├➢🥀 _${usedPrefix}fraseromantica_
 ├➢🥀 _${usedPrefix}historiaromantica_
 └────ׂ─ׂ─ׂ─ׂ──
-
+    SAPITO_BOT
 ┌──「⛩️𝐀𝐍𝐈𝐌𝐄𝐒」─
 ├➢🎎${usedPrefix}cristianoronaldo
 ├➢🌃${usedPrefix}messi
@@ -278,7 +278,7 @@ let str = `
 ├➢🎑${usedPrefix}sakura
 ├➢🌃${usedPrefix}cosplay
 └────ׂ─ׂ─ׂ─ׂ───
-
+    SAPITO_BOT
 ┌──「🔞𝐂𝐨𝐦𝐚𝐧𝐝𝐨𝐬 +𝟏𝟖」
 ├➢🔞 _${usedPrefix}pack_
 ├➢🔞 _${usedPrefix}pack2_
@@ -311,7 +311,7 @@ let str = `
 ├➢🔞 _${usedPrefix}nsfwfemdom_
 ├➢🔞 _${usedPrefix}nsfwglass_
 └────ׂ─ׂ─ׂ─ׂ──
-
+     SAPITO_BOT
 ┌──「𝐄𝐟𝐞𝐜𝐭𝐨𝐬 𝐝𝐞 𝐚𝐮𝐝𝐢𝐨𝐬」
 ├➢*- 𝚁𝙴𝚂𝙿𝙾𝙽𝙳𝙴 𝙰 𝚄𝙽 𝙰𝚄𝙳𝙸𝙾 𝙾 𝙽𝙾𝚃𝙰 𝙳𝙴 𝚅𝙾𝚉*
 ├➢🎤 _${usedPrefix}bass_
@@ -327,13 +327,13 @@ let str = `
 ├➢🎤 _${usedPrefix}smooth_
 ├➢🎤 _${usedPrefix}tupai_
 └────ׂ─ׂ─ׂ─ׂ──
-
+    SAPITO_BOT
 ┌「◾𝐂𝐡𝐚𝐭 𝐚𝐧𝐨𝐧𝐢𝐦𝐨」
 ├➢📳 _${usedPrefix}start_
 ├➢📳 _${usedPrefix}next_
 ├➢📳_${usedPrefix}leave_
 └────ׂ─ׂ─ׂ─ׂ──
-
+   SAPITO_BOT
 ┌「🔍𝐁𝐮𝐬𝐜𝐚𝐫」
 ├➢🔍 _${usedPrefix}apkpure <*texto*>
 ├➢🔍 _${usedPrefix}covid <*país*>
@@ -355,7 +355,7 @@ let str = `
 ├➢🔍 _${usedPrefix}toraccino *<texto>*_
 ├➢🔍 _${usedPrefix}uapkpro *<texto>*_
 └────ׂ─ׂ─ׂ─ׂ──
-
+    SAPITO_BOT
 ┌「🎵𝐀𝐔𝐃𝐈𝐎𝐒」
 ├➢✅_𝙴𝚂𝙲𝚁𝙸𝙱𝙴 𝙻𝙰𝚂 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴𝚂 𝙿𝙰𝙻𝙰𝙱𝚁𝙰𝚂 𝙾 𝙵𝚁𝙰𝚂𝙴𝚂 𝚂𝙸𝙽 𝙽𝙸𝙽𝙶𝚄𝙽 𝙿𝚁𝙴𝙵𝙸𝙹𝙾 (#, /, *, .)
 ├➢✅_(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
@@ -406,7 +406,7 @@ let str = `
 ├➢▶️ _:(
 ├➢▶️ _a_
 └────ׂ─ׂ─ׂ─ׂ──
-
+    SAPITO_BOT
 
 ┌──「🛠️𝐇𝐄𝐑𝐑𝐀𝐌𝐈𝐄𝐍𝐓𝐀𝐒」─
 ├➢🛠️ _${usedPrefix}captura *<link de la página>*_
@@ -426,7 +426,7 @@ let str = `
 ├➢🛠️ _${usedPrefix}traducir *<texto>*_
 ├➢🛠️ _${usedPrefix}nowa *<numero>*_
 └────ׂ─ׂ─ׂ─ׂ───
-
+   SAPITO_BOT
 ┌──「🌌𝐒𝐓𝐈𝐂𝐊𝐄𝐑」─
 ├➢🌠 _${usedPrefix}sticker *<responder a imagen o video>*_
 ├➢🌠 _${usedPrefix}sticker *<enlace / link / url>*_
@@ -453,7 +453,7 @@ let str = `
 ├➢🌠 _${usedPrefix}stickermarker *<efecto> <responder a imagen>*_
 ├➢🌠 _${usedPrefix}stickerfilter *<efecto> <responder a imagen>*_ 
 └────ׂ─ׂ─ׂ─ׂ───
-
+    SAPITO_BOT
 ┌──「💎𝐎𝐖𝐍𝐄𝐑 𝐁𝐎𝐓」─
 ├➢👑 > *<funcion>*
 ├➢👑 => *<funcion>*
@@ -525,7 +525,7 @@ conn.sendMessage(m.chat, buttonMessage, { quoted: m })
 } catch {
 conn.reply(m.chat, '*[❗𝐈𝐍𝐅𝐎❗] 𝙴𝙻 𝙼𝙴𝙽𝚄 𝚃𝙸𝙴𝙽𝙴 𝚄𝙽 𝙴𝚁𝚁𝙾𝚁 𝚈 𝙽𝙾 𝙵𝚄𝙴 𝙿𝙾𝚂𝙸𝙱𝙻𝙴 𝙴𝙽𝚅𝙸𝙰𝚁𝙻𝙾, 𝚁𝙴𝙿𝙾𝚁𝚃𝙴𝙻𝙾 𝙰𝙻 𝙿𝚁𝙾𝙿𝙸𝙴𝚃𝙰𝚁𝙸𝙾 𝙳𝙴𝙻 𝙱𝙾𝚃*', m)
 }}
-handler.command = /^(menucompleto|menu completo|allmenu)$/i
+handler.command = /^(menú|menu|allmenu)$/i
 handler.exp = 50
 handler.fail = null
 export default handler
@@ -539,7 +539,7 @@ function ucapan() {
 
   const time = moment.tz('America/Los_Angeles').format('HH')  //America/Los_Angeles  Asia/Jakarta   America/Toronto
 
-  let res = "🌉Buenas madrugadas"
+  let res = "🌉Buenas madrugadas XD"
 
   if (time >= 4) {
 
