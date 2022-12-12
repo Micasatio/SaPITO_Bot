@@ -20,7 +20,7 @@ global.verdad = [
   "lo que te hace feliz cuando estás triste",
   "¿Alguna vez has sido amor no correspondido? ¿Si has estado con quién? ¿Cómo se siente brou?",
   "¿Alguna vez has tenido una aventura con alguien?",
-  "lo más temido",
+  "Ya cogiste con alguien? Cuenta como fue",
   "quién es la persona más influyente en tu vida",
   "qué orgullo tienes este año",
   "quién es la persona que puede enfermarte",
