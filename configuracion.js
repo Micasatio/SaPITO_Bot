@@ -6,17 +6,17 @@ import fs from 'fs'
 
 //cambia los números que sean propietarios 
 global.owner = [
-  ['593959425714', '🔰  †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ - Creador 🔰', true],
-  ['51993138466', '🔰  †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ - Collaborator 1 🔰', true],
-  ['573184314110', '🔰  †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤- Collaborator 3 🔰', true],
-  ['50246028932', '🔰  †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ -  Col𝚊𝚋𝚘𝚛𝚊𝚍𝚘𝚛  4 🔰', true],
-  ['51928078536', '🔰  †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ - Col𝚊𝚋𝚘𝚛𝚊𝚍𝚘𝚛𝚊 5 🔰', true],
-  ['51936767238'],
-  ['584125778026']
+  ['595983186566', '🔰  Sapito - Creador 🔰', true],
+  ['524531106422', '🔰  Sapito - Creador 2 🔰', true],
+  ['524531173598', '🔰  Sapito - Collaborator 1 🔰', true],
+  ['595983186566', '🔰  Sapito  -  Col𝚊𝚋𝚘𝚛𝚊𝚍𝚘𝚛  2 🔰', true],
+  ['524531106422', '🔰  Sapito - Col𝚊𝚋𝚘𝚛𝚊𝚍𝚘𝚛𝚊 3 🔰', true],
+  ['524531173598'],
+  ['524531173598']
 
 ] 
-global.suittag = ['593959425714'] 
-global.mods = ['595986674310'] 
+global.suittag = ['595983186566'] 
+global.mods = ['524531106422'] 
 global.prems = [] 
 
 global.APIs = { // API Prefix
@@ -72,19 +72,19 @@ global.APIKeys = { // APIKey Here
 }
 
 /* ______________________________________________ */
-global.creadorname = '𝐃𝐈𝐄𝐆𝐎-𝐎𝐅𝐂'
+global.creadorname = 'SNT Y Alexis'
 global.creatorname = creadorname
 global.library = '𝐁𝐀𝐈𝐋𝐄𝐘𝐒-𝐌𝐃'
 global.vs = '1.3.0'
 global.version = vs
 //------------- Sticker WM -----------
 global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤'
-global.wm = '†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ | 𝘿𝙄𝙀𝙂𝙊-𝙊𝙁𝘾'
-global.igfg = '†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤'
+global.author = '†Sapito_BOT'
+global.wm = '†Sapito_Bot | SNT OFC'
+global.igfg = '†Sapito_Bot'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 //-------------------
-global.md = 'https://chat.whatsapp.com/LlAbJM659dOBVJnxOIMl9h'
+global.md = 'https://chat.whatsapp.com/CntRn9MHu6oI29HWU6tVrC'
 global.dorramd = md
 
 /* _____________________________________________ */
@@ -93,9 +93,9 @@ global.ag = '━━━━━━━ ❎ 𝙰𝙳𝚅𝙴𝚁𝚃𝙴𝙽𝙲𝙸�
 global.advertencia = ag
 global.fg = '☆━━━━ ⚠️ 𝙵𝙰𝙻𝙻𝙾 | 𝙵𝙰𝙻𝙻 ⚠️ ━━━☆'
 global.fallo = fg
-global.mg = '══ ❎ 𝙻𝙾 𝚄𝚂𝙾 𝙼𝙰𝙻 ❎ ══'
+global.mg = '══ ❎ Así no es  ❎ ══'
 global.mal = mg
-global.dorre = 'DORRAT-BOT-MD'
+global.dorre = 'SAPITO-BOT-MD'
 global.DORRA = dorre
 
 /* Imagenes___________________ */
@@ -216,7 +216,7 @@ global.rpg = {
       lion: '🦁 León : Lion',
       magicwand: '⚕️ Varita Mágica : Magic Wand',
       mana: '🪄 Hechizo : Spell',
-      dorracoins: '🪙 DORRATCOINS : BotCoins',
+      dorracoins: '🪙 Sapito Monedas : BotCoins',
       monyet: '🐒 Mono : Monkey',
       mythic: '🗳️ Caja Mítica : Mythic Box',
       panda: '🐼 Panda',
