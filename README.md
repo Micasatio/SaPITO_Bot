@@ -27,7 +27,7 @@
 
 ### `—◉ 😈BOTS OFICIALES`
 <a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/Bot-Oficial_1-30302f?style=flat&logo=whatsapp" /></a>
-<a href="http://es.me/524531106422" target="blank"><img src="https://img.shields.io/badge/Bot-Oficial_2-30302f?style=flat&logo=WhatsApp" /></a>
+<a href="pornhub.com" target="blank"><img src="https://img.shields.io/badge/Bot-Oficial_2-30302f?style=flat&logo=WhatsApp" /></a>
 
 > [⚠️] USAR LOS BOTS SIN SPAM
 
