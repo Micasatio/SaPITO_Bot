@@ -3,14 +3,16 @@
 
 `—◉ DUDAS SOBRE EL BOT?, CONTACTANOS 👻`
 
-<a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/SNT_OFC_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/524531106422" target="blank"><img src="https://img.shields.io/badge/Alexis_COLAB.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
+<a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/SNT_OFC-30302f?style=flat&logo=whatsapp" /></a>
+<a href="http://es.me/524531106422" target="blank"><img src="https://img.shields.io/badge/AlexisWithlogic-30302f?style=flat&logo=WhatsApp" /></a>
 ### `—◉ 🔥GRUPOS OFICIALES`
 
 <a href="https://chat.whatsapp.com/CntRn9MHu6oI29HWU6tVrC" target="blank"><img src="https://img.shields.io/badge/Grupo 1-30302f?style=flat&logo=whatsapp" /></a>
+
 <a href="https://chat.whatsapp.com/GxxpMawzPaW6MR0p2vH432" target="blank"><img src="https://img.shields.io/badge/Grupo 2-30302f?style=flat&logo=whatsapp" /></a>
+
 <a href="https://chat.whatsapp.com/I1vjFTvfZQbJI4aw0Vj5dk" target="blank"><img src="https://img.shields.io/badge/Grupo 3-30302f?style=flat&logo=whatsapp" /></a>
+
 <a href="" target="blank"><img src="https://img.shields.io/badge/Grupo 4-30302f?style=flat&logo=whatsapp" /></a>
 
 
