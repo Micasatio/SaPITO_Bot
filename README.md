@@ -69,7 +69,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 ### `—◉ 𝐎𝐁𝐓𝐄𝐍𝐄𝐑 𝐎𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐆𝐎 𝐐𝐑` <img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/galeria/qrcode_30531084_.png" height="30px">
 
-- DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A DORRAT-TERMUX $  
+- DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A SaPITO_Bot $  
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
@@ -82,7 +82,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > Use CTRL + z para apagar el Bot
 
 * Cómo enciendo el Bot en termux?
-> En caso que vuelva a iniciar en termux use este comando ```cd Sapito & npm start```
+> En caso que vuelva a iniciar en termux use este comando ```cd SaPITO_Bot & npm start```
 En caso que este Apagado el Bot sin salir de la carpeta del Bot, use este comando ```npm start```
 
 * Cómo puedo hacer el Bot Owner?
