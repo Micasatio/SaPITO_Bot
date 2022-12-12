@@ -82,7 +82,7 @@ let username = conn.getName(who)
 //user.registered = false
 
 let menu = `
-💗 *¡HOLA | HI!* ${username}
+💗 *¡HOLA!* ${username}
 ╭━━〔 *${wm}* 〕━━⬣
 ┃⚒️⚒️⚒️⚒️⚒️⚒️⚒️⚒️⚒️
 ┃✪ *EXPERIENCIA | EXP ➺ ${exp}*
@@ -110,6 +110,7 @@ let menu = `
 ┃⚗️➺ _${usedPrefix}caza | cazar | hunt_
 ┃⚗️➺ _${usedPrefix}animales | animals_
 ┃⚗️➺ _${usedPrefix}curar | heal_
+┃      SAPITO_BOT
 ┃⚗️➺ _${usedPrefix}minardiamantes | minargemas_
 ┃⚗️➺ _${usedPrefix}minardorratcoins | minarcoins_
 ┃⚗️➺ _${usedPrefix}minarexperiencia | minarexp_
