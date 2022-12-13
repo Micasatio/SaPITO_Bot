@@ -7,14 +7,14 @@ let mat =`
 *𝙴𝙹𝙴𝙼𝙿𝙻𝙾 𝙳𝙴 𝚄𝚂𝙾: ${usedPrefix}mates medium*
 `.trim()
 if (args.length < 1) return conn.sendHydrated(m.chat, mat, author, null, null, null, null, null, [
-['𝙼𝙰𝚃𝙴𝚂 𝙴𝙰𝚂𝚈', `${usedPrefix + command} easy`], 
-['𝙼𝙰𝚃𝙴𝚂 𝙼𝙴𝙳𝙸𝚄𝙼', `${usedPrefix + command} medium`], 
-['𝙼𝙰𝚃𝙴𝚂 𝙷𝙰𝚁𝙳', `${usedPrefix + command} hard`]], m)
+['Mates facil', `${usedPrefix + command} facil`], 
+['Mates medio', `${usedPrefix + command} medio`], 
+['Mates dificil', `${usedPrefix + command} dificil`]], m)
 let mode = args[0].toLowerCase()
 if (!(mode in modes)) return conn.sendHydrated(m.chat, mat, author, null, null, null, null, null, [
-['𝙼𝙰𝚃𝙴𝚂 𝙴𝙰𝚂𝚈', `${usedPrefix + command} easy`], 
-['𝙼𝙰𝚃𝙴𝚂 𝙼𝙴𝙳𝙸𝚄𝙼', `${usedPrefix + command} medium`], 
-['𝙼𝙰𝚃𝙴𝚂 𝙷𝙰𝚁𝙳', `${usedPrefix + command} hard`]], m)
+['Mates fácil', `${usedPrefix + command} facil`], 
+['Mates medio', `${usedPrefix + command} medio`], 
+['Mates difícil', `${usedPrefix + command} dificil`]], m)
 let id = m.chat
 if (id in global.math) return conn.reply(m.chat, '*[❗𝐈𝐍𝐅𝐎❗] 𝚃𝙾𝙳𝙰𝚅𝙸𝙰 𝙷𝙰𝚈 𝙿𝚁𝙴𝙶𝚄𝙽𝚃𝙰𝚂 𝚂𝙸𝙽 𝚁𝙴𝚂𝙿𝙾𝙽𝙳𝙴𝚁 𝙴𝙽 𝙴𝚂𝚃𝙴 𝙲𝙷𝙰𝚃!*', global.math[id][0])
 let math = genMath(mode)
