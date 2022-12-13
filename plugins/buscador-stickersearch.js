@@ -2,7 +2,7 @@ import fs from 'fs'
 import fetch from 'node-fetch'
 import { googleImage } from '@bochilteam/scraper'
 let handler = async (m, {text, usedPrefix, command, conn}) => {
-if (!text) throw `*[❗] 𝙸𝙽𝙶𝚁𝙴𝚂𝙴 𝙴𝙻 𝙽𝙾𝙼𝙱𝚁𝙴 𝙳𝙴𝙻 𝙿𝙰𝚀𝚄𝙴𝚃𝙴 𝚀𝚄𝙴 𝙳𝙴𝚂𝙴𝙴 𝙱𝚄𝚂𝙲𝙰𝚁*`
+if (!text) throw `*[❗] Ingresa el nombre del paquete que deseas buscar 🐸*`
 try {
 const res2 = await googleImage(text)
 let sfoto = res2.getRandom()
