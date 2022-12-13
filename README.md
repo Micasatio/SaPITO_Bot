@@ -10,7 +10,7 @@
 `—◉ DUDAS SOBRE EL BOT?, CONTACTANOS 👻`
 
 <a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/SNT_OFC-30302f?style=flat&logo=whatsapp" /></a>
-<a href="http://es.me/524531106422" target="blank"><img src="https://img.shields.io/badge/AlexisWithlogic-30302f?style=flat&logo=WhatsApp" /></a>
+<a href="https://www.atom.bio/sapito_botelbotrico" target="blank"><img src="https://img.shields.io/badge/AlexisWithlogic-30302f?style=flat&logo=WhatsApp" /></a>
 ### `—◉ 🔥GRUPOS OFICIALES`
 
 <a href="https://chat.whatsapp.com/CntRn9MHu6oI29HWU6tVrC" target="blank"><img src="https://img.shields.io/badge/Grupo 1-30302f?style=flat&logo=whatsapp" /></a>
@@ -19,7 +19,7 @@
 
 <a href="https://chat.whatsapp.com/I1vjFTvfZQbJI4aw0Vj5dk" target="blank"><img src="https://img.shields.io/badge/Grupo 3-30302f?style=flat&logo=whatsapp" /></a>
 
-<a href="" target="blank"><img src="https://img.shields.io/badge/Grupo 4-30302f?style=flat&logo=whatsapp" /></a>
+<a href="https://www.atom.bio/sapito_botelbotrico" target="blank"><img src="https://img.shields.io/badge/Grupo 4-30302f?style=flat&logo=whatsapp" /></a>
 
 
 ---------
@@ -27,7 +27,7 @@
 
 ### `—◉ 😈BOTS OFICIALES`
 <a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/Bot-Oficial_1-30302f?style=flat&logo=whatsapp" /></a>
-<a href="https://es.pornhub.com/" target="blank"><img src="https://img.shields.io/badge/Bot-Oficial_2-30302f?style=flat&logo=WhatsApp" /></a>
+<a href="https://www.atom.bio/sapito_botelbotrico/" target="blank"><img src="https://img.shields.io/badge/Bot-Oficial_2-30302f?style=flat&logo=WhatsApp" /></a>
 
 > [⚠️] USAR LOS BOTS SIN SPAM
 
