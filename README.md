@@ -1,5 +1,5 @@
 # 🐸Sapito_Bot 🐸
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CB22&width=435&lines=Sapito+Bot+Multidevice+UwU;Gracias+por+usar+este+bot+mi+amor+%3A3;%5B+FOTO+TETA+?+🤠+%5D_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CB22&width=435&lines=🥵+🥵+🥵+🥵;🤑+🤑+🤑+🤑+🤑+🤑+🤑+%3A3;%5B+😈+😈+🤠+%5D_)](https://git.io/typing-svg)
 <div align="center">
 <img src="https://i.ytimg.com/vi/nkhVzxXnuSQ/maxresdefault.jpg" alt="agromosSpbot" width="500" />
 
